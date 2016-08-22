@@ -1,0 +1,4 @@
+ref: http://www.ibm.com/developerworks/cn/java/j-lo-jse61/
+
+测试指令：
+java -javaagent:java.jar -cp java.jar Main 
